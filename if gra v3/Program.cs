@@ -16,7 +16,6 @@ while (życie >= 0) {
         życie = 75;
 
     } else {
-        aaaaa
         Console.WriteLine("ok miałeś szczęście...");
     }
     Console.WriteLine("czy trafiono cię karabinem?");
